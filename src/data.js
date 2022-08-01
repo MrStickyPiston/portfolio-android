@@ -8,7 +8,7 @@ import {
   FaGithubSquare,
   FaLink,
 } from "react-icons/fa";
-import { SiJavascript, SiStyledcomponents, SiJava } from "react-icons/si";
+import { SiJavascript, SiStyledcomponents, SiIntellijidea } from "react-icons/si";
 
 // Projects Images (add your images to the images directory and import below)
 import Logo from "./images/logo.svg";
@@ -73,7 +73,7 @@ export const skillData = [
   },
   {
     id: 7,
-    skill: <SiJava className="display-4" />,
+    skill: <SiIntellijidea className="display-4" />,
     name: "Java",
   },
   {
