@@ -1,0 +1,13 @@
+{
+
+"name": "MrStickyPiston",
+
+"integrations": {
+
+"capacitor": {}
+
+},
+
+"type": "react"
+
+}
