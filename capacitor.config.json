@@ -1,0 +1,15 @@
+{
+
+"appId": "io.ionic.mrstickypiston.portfolio",
+
+"appName": "mrstickypiston",
+
+"bundledWebRuntime": false,
+
+"npmClient": "npm",
+
+"webDir": "build",
+
+"cordova": {}
+
+}
